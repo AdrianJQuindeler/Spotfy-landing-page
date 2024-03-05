@@ -1,0 +1,2 @@
+# Spotify Landing Page
+Este repositório contém uma versão personalizada da landing page do Spotify, desenvolvida durante a imersão Front-end da Alura para o aprendizado em desenvolvimento web front-end.
